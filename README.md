@@ -1,4 +1,4 @@
-# Data Driven Marketing
+# Research customer characteristics and behavior and propose solutions for businesses based on Data driven for Marketing
 ### Problem posed
 Data on the company selling foods, through many surveys of the store's customer care service, received many negative feedback from customers, the reason being that the business did not understand understand customer needs, desires and behavior, in addition, there is no appropriate strategy to take care of different customer groups, and launching incorrect campaigns leads to the possibility of customers accepting the strategy. The epidemic is not high, thereby reducing the business's revenue.
 Realizing that problem, this problem will help businesses improve customer care services, cluster customers and learn about the characteristics of each customer cluster to be able to come up with appropriate marketing campaigns to target customers. Optimize customer experience and increase your business's competitive advantage over other competitors.
